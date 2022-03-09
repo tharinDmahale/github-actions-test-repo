@@ -3,6 +3,6 @@
 # For CI/CD pipeline build test
 
 print()
-print("Hello World!"
+print("Hello World!")
 print()
 print("Hello Python!")
